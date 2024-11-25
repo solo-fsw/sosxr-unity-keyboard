@@ -1,8 +1,8 @@
 {
-  "name": "com.sosxr.",
+  "name": "com.sosxr.keyboard",
   "version": "1.0.0",
-  "displayName": "",
-  "description": "",
+  "displayName": "Keyboard",
+  "description": "3D keyboard for Unity",
   "unity": "2021.3",
   "dependencies": {
   },
