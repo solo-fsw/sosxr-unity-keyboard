@@ -2,6 +2,10 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
+/// <summary>
+/// Usefull for testing the button in the editor.
+/// A better version of this is in the [EditorSpice](https://github.com/solo-fsw/sosxr-unity-editorspice) package.
+/// </summary>
 [RequireComponent(typeof(Button))]
 public class KeyboardButtonButton : MonoBehaviour
 {

@@ -11,3 +11,6 @@
 4. Paste the URL of this repo into the text field
 5. Add `.git` at the end
 6. Press `Add`.
+
+## Requirements
+- TextMeshPro
