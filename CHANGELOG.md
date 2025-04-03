@@ -6,6 +6,7 @@ The changelog format is based on [Keep a Changelog](https://keepachangelog.com/e
 ## [0.2.2] --- in progress
 
 ### Package Numbering Change
+
 > ### Package Numbering Change
 > #### Package will now be numbered starting with 0, to better reflect the current status in development (see the official semver information [here](https://semver.org/#spec-item-4)).
 >
@@ -14,7 +15,6 @@ The changelog format is based on [Keep a Changelog](https://keepachangelog.com/e
 ### Changed
 
 - Requirements
-
 
 ## [2.1.0] - 2025-01-31
 
